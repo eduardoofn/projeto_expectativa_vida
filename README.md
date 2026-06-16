@@ -180,7 +180,7 @@ xgboost
 
 ```bash
 # Clone o repositório
-git clone https://github.com/<seu-usuario>/life_expectancy_project.git
+git clone https://github.com/eduardoofn/life_expectancy_project.git
 cd life_expectancy_project
 
 # Instale as dependências
